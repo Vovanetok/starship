@@ -8,7 +8,7 @@ namespace Game
         static void Main(string[] args)
         {
             Form form = new Form();
-            form.Width = 800;
+            form.Width = 700;
             form.Height = 600;
             form.Show();
             Game.Init(form);
